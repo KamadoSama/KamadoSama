@@ -12,6 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KamadoSama&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/USERNAME.svg)](https://user-badge.committers.top/ivory_coast_private/KamadoSama)
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/USERNAME.svg)](https://user-badge.committers.top/ivory_coast_private/KAMADOSAMA)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
