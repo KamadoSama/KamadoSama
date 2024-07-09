@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnomblehi-ben-arthur-taho-5a05121a3/) 
 
 # 📊 GitHub Stats:
-[![GitHuKamadoSamahttps://github-readme-streak-stats.herokuapp.com?user=KamadoSama&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamadoSama&theme=dark)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KamadoSama&icon=0&color=0)](https://visitcount.itsvg.in)
